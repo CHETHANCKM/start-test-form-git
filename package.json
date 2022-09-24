@@ -1,0 +1,24 @@
+{
+  "name": "start-test-form-git",
+  "version": "1.0.0",
+  "description": "dependency for mcq",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHETHANCKM/start-test-form-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CHETHANCKM/start-test-form-git/issues"
+  },
+  "homepage": "https://github.com/CHETHANCKM/start-test-form-git#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
